@@ -3,10 +3,9 @@
 Machine Learning Source Code Example:
 https://thecleverprogrammer.com/2020/05/20/heart-disease-prediction-with-machine-learning
 
-Idea: Let's build two models:
-    	1). Using ECG Sensor data from Apple Watch to detect irregularities and
+Idea: 
 
-    2). Using accelerometer, gyroscope, and barometric sensors to determine physical activity. this will help us profile if someone is more prone to heart disease based on their physical lifestyle.
+    1). Use makerspace lab and find a more expensive version and justify that as our full package
 
 The real life implementation is to have a feedback loop between these two models on all smart watches (not just Apple Watch). This way people won't have to worry about spending a lot of money on an Apple watch just to detect their heartbeat irregularities and report this data back to doctors. They can cut half the costs and just install a free application that performs this instead. 
 
